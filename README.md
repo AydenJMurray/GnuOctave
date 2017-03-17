@@ -5,6 +5,7 @@ Source code for my ~~successful~~ Gnu Octave coding, focusing on using MATLAB sy
 
 **Current Projects:**
 1. Simple projectile motion.
+2. Fibonnacci Sequence.
 
 **Future Projects:**
 
